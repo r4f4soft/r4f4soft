@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there, I'm Rafael Jiménez! 👋
+
+<h3>👨🏻‍💻 About me</h3>
+- ⌨ &nbsp; I'm currently learning computer systems administration
 
 <!--
 **r4f4soft/r4f4soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
