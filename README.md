@@ -24,7 +24,6 @@ $ echo "Hey there, I'm Rafael Jiménez!" 👋
 ## Have a good day!
 ![Snake animation](https://github.com/r4f4soft/r4f4soft/blob/output/github-contribution-grid-snake.svg)
 
-
 <!--
 **r4f4soft/r4f4soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
