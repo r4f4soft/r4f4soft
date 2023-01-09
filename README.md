@@ -21,9 +21,6 @@ $ echo "Hey there, I'm Rafael Jiménez!" 👋
 ## My Stats
 ![r4r4soft Github Stats](https://github-readme-stats.vercel.app/api?username=r4f4soft&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## Have a good day!
-![Snake animation](https://github.com/r4f4soft/r4f4soft/blob/output/github-contribution-grid-snake.svg)
-
 <!--
 **r4f4soft/r4f4soft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
