@@ -1,6 +1,5 @@
-```bash
-$ echo "Hey there, I'm Rafael Jiménez!" 👋
- ```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=16&pause=1000&random=false&width=435&lines=Hey+there%2C+I'm+Rafael+Jim%C3%A9nez!+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 ## 👨🏻‍💻 About me
 - ⌨ I´m a Microcomputer Systems and Networks Technician.
 - 🎓 I'm currently learning computer systems administration.
